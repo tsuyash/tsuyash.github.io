@@ -40,8 +40,9 @@ iframe{
   position:absolute;
   right:20px;
   top:50px;
-  border:2px solid #A09AF5;
+  border:2px solid #FFB733;
   border-radius:6px;
+  padding:5px;
 }
 
 .vertical-menu a {
