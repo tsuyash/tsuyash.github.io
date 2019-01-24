@@ -39,7 +39,7 @@ iframe{
 .vertical-menu {
   width: 200px; /* Set a width if you like */
   position:absolute;
-  right:20px;
+  left:1320px;
   top:50px;
   border:2px solid #FFB733;
   border-radius:6px;
