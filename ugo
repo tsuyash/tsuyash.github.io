@@ -1,0 +1,15 @@
+<html>
+<head></head>
+<body>
+   <link rel=Stylesheet href="css/style1.css">
+<h1>UGO : Unofficial Games Online</h1>
+     <h2><UL type=square>
+        <li>Chess</li>
+        <br><li>Cycling<br><img src="cycling.png" height=100 width=100></li>
+        <li>Ludo</li>
+        <br><li>img src="cycling.png" height=100 width=100></li>
+        <br><li>UNO</li>
+     </UL>
+	 </h2>
+	</body>
+	</html>
